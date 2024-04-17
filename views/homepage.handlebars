@@ -1,0 +1,9 @@
+{{#each posts}}
+  <div class="post">
+    <h2 class="post-title">{{this.postTitle}}</h2><hr />
+    <p class="post-meta">{{this.postContent}}</p>
+    <button class="delete-button" data-id="{{this.id}}">Delete</button>
+  </div><br />
+{{/each}}
+
+<script src="./js/del.js"></script>

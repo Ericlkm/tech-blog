@@ -1,0 +1,12 @@
+[
+  {
+    "postTitle": "anne frank",
+    "postContent": "anne frank post",
+    "user_id": 1
+  },
+  {
+    "postTitle": "moby dick",
+    "postContent": "good book",
+    "user_id": 2
+  }
+]
